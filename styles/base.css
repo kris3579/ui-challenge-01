@@ -1,0 +1,52 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+section {
+  font-size: 0px;
+}
+
+p {
+  font-size: 16px;
+}
+
+div p {
+  text-align: center;
+}
+
+.a {
+  background-color: blue;
+}
+
+.b {
+  background-color: red;
+}
+
+.c {
+  background-color: green;
+}
+
+.d {
+  background-color: black;
+}
+
+.e {
+  background-color: brown;
+}
+
+.f {
+  background-color: purple;
+}
+
+.g {
+  background-color: orange;
+}
+
+.h {
+  background-color: teal;
+}
+
+.i {
+  background-color: bisque
+}
